@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+	background:#006622;
+	color: black;
+}
+
+#priceindicator {
+	text-align: center;
+	vertical-align: middle;
+	line-height: 380px;
+	color: white;
+	font-size: 30px;
+}
+
+#heading {
+	color: white;
+}
+
+
+
